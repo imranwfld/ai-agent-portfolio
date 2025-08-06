@@ -1,5 +1,24 @@
 AI-AGENT-PORTFOLIO
 
+## 👤 About Me
+
+With over **11 years of experience** in RAN virtualization engineering, I am a leading expert in delivering cutting-edge **vRAN** and **O-RAN** solutions for telecom operators. I have contributed to several major vRAN and O-RAN deployments for Tier-1 operators, earning multiple awards and recognitions for performance and quality.
+
+### Current Focus Areas:
+- Building the world's first commercial **5G O-RAN Network**
+- **O-RAN**, **vRAN** design and deployment
+- Radio Access Network (RAN) engineering
+- Using **RANGPT** for setup, configuration, and advanced troubleshooting to optimize RAN performance
+- 5G validation and performance improvement
+- Network performance and automation
+
+### Interests:
+Connectivity everywhere and anytime, 5G to 6G evolution, O-RAN/RIC, IoT, and AI/ML
+
+---
+
+
+
 # 🤖 AI Agent Portfolio
 
 This repository showcases a collection of AI agents built by me. Each agent solves a specific task using intelligent automation and natural language understanding.
