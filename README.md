@@ -2,7 +2,7 @@ AI-AGENT-PORTFOLIO
 
 ## 👤 About Me
 
-With over **11 years of experience** in RAN virtualization engineering, I am a leading expert in delivering cutting-edge **vRAN** and **O-RAN** solutions for telecom operators. I have contributed to several major vRAN and O-RAN deployments for Tier-1 operators, earning multiple awards and recognitions for performance and quality.
+With over **11 years of experience** in RAN virtualization engineering, I am a leading expert in delivering cutting-edge **vRAN** and **O-RAN** solutions for telecom operators. I have contributed to several major vRAN and O-RAN deployments for Tier-1 operators.
 
 ### Current Focus Areas:
 - Building the world's first commercial **5G O-RAN Network**
