@@ -21,31 +21,20 @@ Connectivity everywhere and anytime, 5G to 6G evolution, O-RAN/RIC, IoT, and AI/
 
 ---
 
-## 📨 Agent 1: Professional Email Assistant
+## 📨 Agent 1: Youtube Summarizer Agent
 
 ### 🧠 Description  
-This AI agent is designed to help users generate professional, structured emails based on simple user input.
 
-### 🚀 Features  
-- Generates complete email drafts from short prompts  
-- Helps with tone and formatting  
-- Ideal for business or customer service use  
 
-🔗 **Access it here:** [Professional Email Assistant](https://app.mindstudio.ai/share/aaxNwnC4eufG)
+### 🚀 Features  ###
 
----
+- Summarize the content from a YouTube video
+- Get the YouTube video thumbnail
+- Display the thumbnail + summary back to the user.
 
-## 📝 Agent 2: Key Point Extractor
+🔗 **Access it here:** [[Youtube Summarizer Agent](https://app.mindstudio.ai/agents/youtube-summarizer-agent-13d25d0f/run)
 
-### 🧠 Description  
-An intelligent summarizer that extracts key points from multiple content types.
 
-### 🚀 Features  
-- Summarizes YouTube videos  
-- Extracts insights from URLs  
-- Summarizes documents and articles  
-
-🔗 **Access it here:** [Key Point Extractor](https://app.mindstudio.ai/share/Emfj9W9CC3eh)
 
 ---
 
@@ -61,89 +50,7 @@ This agent helps users cook creatively by generating custom recipes from a list 
 
 🔗 **Access it here:** [My Recipe Bot](https://app.mindstudio.ai/share/X6y8fv8uuexu)
 
----
 
-## 🧠 Agent 4: Chrome Key Point Extraction Extension
-
-### 🧠 Description  
-This AI agent extracts and organizes key points from any webpage, article, or online content.
-
-### 🚀 Features  
-- Quickly captures essential information  
-- Helps summarize lengthy articles or documents  
-- Ideal for researchers, students, and professionals  
-
-🔗 **Access it here:** [Chrome Key Point Extraction Extension](https://app.mindstudio.ai/agents/chrome-key-point-extraction-extension-db350e36/)
-
----
-
-## 🧠 Agent 5: Email Tone Analyzer
-
-### 🧠 Description  
-Analyze the tone of your email to ensure it aligns with your communication goals.
-
-### 🚀 Features  
-- Detects tone (formal, informal, friendly, urgent, angry)  
-- Provides a one-sentence explanation  
-- Great for refining professional messages  
-
-🔗 **Access it here:** [Email Tone Analyzer](https://app.mindstudio.ai/agents/email-tone-analyzer-090fead2/)
-
----
-
-## 🧠 Agent 6: Blog Post Generator
-
-### 🧠 Description  
-Generates a complete blog post based on your topic or input prompt.
-
-### 🚀 Features  
-- AI-written blog posts in seconds  
-- Supports various topics and styles  
-- Useful for marketers, bloggers, and content creators  
-
-🔗 **Access it here:** [Blog Post Generator](https://app.mindstudio.ai/agents/complete-the-blog-post-generator-c96784ee/)
-
----
-
-## 🧠 Agent 7: The "Jargon Buster" Agent
-
-### 🧠 Description  
-Simplifies complex or technical content for a beginner audience.
-
-### 🚀 Features  
-- Reads and interprets jargon-heavy documents  
-- Produces beginner-friendly explanations  
-- Ideal for onboarding, education, or documentation  
-
-🔗 **Access it here:** [Jargon Buster Agent](https://app.mindstudio.ai/agents/jargon-buster-6c65ca24/)
-
----
-
-## 🧠 Agent 8: Social Media Post Generator
-
-### 🧠 Description  
-Creates three unique social media post ideas from a single topic input.
-
-### 🚀 Features  
-- Generates content ideas instantly  
-- Boosts social media engagement  
-- Perfect for content creators and marketers  
-
-🔗 **Access it here:** [Social Media Post Generator](https://app.mindstudio.ai/agents/social-media-post-ideas-generator-249ea2ee/)
-
----
-
-## 🧠 Agent 9: Product Description Agent
-
-### 🧠 Description  
-Generates compelling product descriptions from multiple form inputs.
-
-### 🚀 Features  
-- Crafts SEO-friendly descriptions  
-- Tailored to different product types  
-- Ideal for e-commerce and product managers  
-
-🔗 **Access it here:** [Product Description Agent](https://app.mindstudio.ai/agents/product-description-agent-79e990ef/)
 
 ---
 
