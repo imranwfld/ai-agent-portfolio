@@ -32,7 +32,7 @@ Connectivity everywhere and anytime, 5G to 6G evolution, O-RAN/RIC, IoT, and AI/
 - Get the YouTube video thumbnail
 - Display the thumbnail + summary back to the user.
 
-🔗 **Access it here:** [[Youtube Summarizer Agent](https://app.mindstudio.ai/agents/youtube-summarizer-agent-13d25d0f/run)
+🔗 **Access it here:** [[Youtube Summarizer Agent](https://app.mindstudio.ai/agents/youtube-summarizer-agent-13d25d0f/run)]]
 
 
 
