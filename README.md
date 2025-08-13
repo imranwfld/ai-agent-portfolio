@@ -38,17 +38,7 @@ Connectivity everywhere and anytime, 5G to 6G evolution, O-RAN/RIC, IoT, and AI/
 
 ---
 
-## 🍳 Agent 3: My Recipe Bot
 
-### 🧠 Description  
-This agent helps users cook creatively by generating custom recipes from a list of available ingredients.
-
-### 🚀 Features  
-- Recipe generation based on input ingredients  
-- Supports vegetarian/non-vegetarian options  
-- Offers simple and quick meal ideas  
-
-🔗 **Access it here:** [My Recipe Bot](https://app.mindstudio.ai/share/X6y8fv8uuexu)
 
 
 
