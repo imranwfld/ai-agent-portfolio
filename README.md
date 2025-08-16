@@ -25,14 +25,31 @@ Connectivity everywhere and anytime, 5G to 6G evolution, O-RAN/RIC, IoT, and AI/
 
 ### 🧠 Description  
 
-
-### 🚀 Features  ###
-
 - Summarize the content from a YouTube video
-- Get the YouTube video thumbnail
-- Display the thumbnail + summary back to the user.
+- Summarize the comments from the same video
+- Display both summaries at the same time
 
-🔗 **Access it here:** [[Youtube Summarizer Agent](https://app.mindstudio.ai/agents/youtube-summarizer-agent-13d25d0f/run)]]
+
+🔗 **Access it here:** [[Youtube Summarizer Agent](https://app.mindstudio.ai/agents/youtube-summary-and-comment-analysis-4911930a/)]]
+
+## Agent 2 : Ask the Chat bot
+
+### Functionality
+
+- Agent has access to a **Data Source** containing the written documentation for a product. Choose any documentation you’d like. Download as PDF and use it as a data source.
+- - User types in their question related to the docs.
+- Check to see if the question is relevant to the product. If not, display a message prompting the user to ask a question about the product.
+
+**Use RAG to answer the users question:**
+
+- Enhance the user query for use in querying a vector database.
+- Query the data source using the enhanced query.
+- Using the Original Question, the Enhanced Query, and the Query Result, Generate a response to the user’s original question.
+- Once answered, let the user continue chatting with the agent to ask more questions and continue using RAG in chat to answer those questions.
+
+- 🔗 **Access it here:** : [[ask the chatbot]](https://app.mindstudio.ai/agents/ask-the-docs--chat-bot-c3b30c81/)
+
+  
 
 
 
