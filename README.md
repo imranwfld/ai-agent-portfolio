@@ -36,7 +36,8 @@ Connectivity everywhere and anytime, 5G to 6G evolution, O-RAN/RIC, IoT, and AI/
 
 ### Functionality
 
-- Agent has access to a **Data Source** containing the written documentation for a product. Choose any documentation you’d like. Download as PDF and use it as a data source.
+- Agent has access to a **Data Source** containing the written documentation for a product.
+- I have used Mindstudio documentation as a Datasource for this chatbot.
 - - User types in their question related to the docs.
 - Check to see if the question is relevant to the product. If not, display a message prompting the user to ask a question about the product.
 
