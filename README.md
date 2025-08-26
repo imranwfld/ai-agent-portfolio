@@ -51,9 +51,23 @@ Connectivity everywhere and anytime, 5G to 6G evolution, O-RAN/RIC, IoT, and AI/
 - 🔗 **Access it here:** : [[ask the chatbot]](https://app.mindstudio.ai/agents/ask-the-docs--chat-bot-c3b30c81/)
 
   
+## Agent 3: Website Changes - Agent
 
+### Functionality
+- Scrape a specified website
+- If first scrape:
+    - Save the scraped content for use on the next run.
+    - End the Workflow quietly without any notifications.
+- If NOT first scrape:
+    - Compare the current scrape to the previous scrape
+    - Analyze for changes based on specified criteria
+    - If there are changes:
+        - Generate a report of the specific changes.
+        - Send the report to Email or Slack
+    - If NO changes:
+        - End the workflow quietly without any notifications.
 
-
+-  🔗 **Access it here:** : [[ Website Changes - Agent ]] (https://app.mindstudio.ai/agents/website-changes--agent-3f9c0e1e/)
 ---
 
 
