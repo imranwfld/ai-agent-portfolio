@@ -32,12 +32,11 @@ Connectivity everywhere and anytime, 5G to 6G evolution, O-RAN/RIC, IoT, and AI/
 
 🔗 **Access it here:** [[Youtube Summarizer Agent](https://app.mindstudio.ai/agents/youtube-summary-and-comment-analysis-4911930a/)]]
 
-## Agent 2 : Ask the Chat bot- 5G Architecture
+## Agent 2 : Ask the Chat bot
 
 ### Functionality
 
-- Agent has access to a **Data Source** containing the 3GPP specification.
-- I have used 3GPP TS 23.501 documentation as a Datasource for this chatbot.
+- Agent has access to a **Data Source** containing the mindstudio documentation.
 - - User types in their question related to the docs.
 - Check to see if the question is relevant to the specification. If not, display a message prompting the user to ask a question about the product.
 
